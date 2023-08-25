@@ -50,6 +50,8 @@ title: Home
 
 ## Password Cracking
 - [Hydra](https://tryhackme.com/room/hydra)
+- [Password hacking in kali linux - John Hammond](https://youtu.be/4X5aoQ8i-_g?si=rhIlzQPf-js6NdYo)
+- [Crack the Hash](https://tryhackme.com/room/crackthehash)
 
 ## Web Hacking
 - [Burp Suite Basics](https://tryhackme.com/room/burpsuitebasics)
