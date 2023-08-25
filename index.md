@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
 **Disclaimer:** This learning path is intended for educational purposes only. The resources provided here are aimed at helping individuals understand the principles of ethical hacking and cybersecurity. Unauthorized hacking of systems without explicit permission is illegal and unethical. The creator of this content does not endorse or encourage any illegal or malicious activities. 
 
