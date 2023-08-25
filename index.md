@@ -18,6 +18,11 @@ title: Home
 - [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 - [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
+## Windows Fundamentals
+- [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [Windows Fundamentals Part 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [Windows Fundamentals Part 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+
 ## Networking
 - [What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [Intro to LAN](https://tryhackme.com/room/introtolan)
@@ -26,11 +31,6 @@ title: Home
 - [HTTP in Detail](https://tryhackme.com/room/httpindetail)
 - [How Websites Work](https://www.youtube.com/watch?v=iWoiwFRLV4I)
 - [Put it All Together](https://www.youtube.com/watch?v=Aa_FAA3v22g)
-
-## Windows Fundamentals
-- [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [Windows Fundamentals Part 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [Windows Fundamentals Part 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Discovery/Recon
 - [Further Nmap](https://tryhackme.com/room/furthernmap)
