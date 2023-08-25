@@ -1,123 +1,81 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Disclaimer:** This learning path is intended for educational purposes only. The resources provided here are aimed at helping individuals understand the principles of ethical hacking and cybersecurity. Unauthorized hacking of systems without explicit permission is illegal and unethical. The creator of this content does not endorse or encourage any illegal or malicious activities. 
 
-[Link to another page](./another-page.html).
+**Note:** The majority of the resources listed in this learning path are sourced from TryHackMe. Please be aware that TryHackMe and its content are subject to change. It is important to stay updated with their terms of use and guidelines. Any actions taken by individuals based on the information provided in this learning path are at their own risk, and the creator of this content shall not be held liable for any consequences arising from such actions.
 
-There should be whitespace between paragraphs.
+## Intro
+- [White Hat (Computer Security)](https://en.wikipedia.org/wiki/White_hat_(computer_security))
+- [Intro to Research](https://tryhackme.com/room/introtoresearch)
+- [Google Dorking](https://tryhackme.com/room/googledorking)
+- [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Linux Fundamentals
+- [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
-# Header 1
+## Networking
+- [What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [Intro to LAN](https://tryhackme.com/room/introtolan)
+- [Intro to Networking](https://tryhackme.com/room/introtonetworking)
+- [DNS in Detail](https://tryhackme.com/room/dnsindetail)
+- [HTTP in Detail](https://tryhackme.com/room/httpindetail)
+- [How Websites Work](https://www.youtube.com/watch?v=iWoiwFRLV4I)
+- [Put it All Together](https://www.youtube.com/watch?v=Aa_FAA3v22g)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Windows Fundamentals
+- [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [Windows Fundamentals Part 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [Windows Fundamentals Part 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
-## Header 2
+## Discovery/Recon
+- [Further Nmap](https://tryhackme.com/room/furthernmap)
+- [RustScan](https://tryhackme.com/room/rustscan)
+- [Shodan](https://tryhackme.com/room/shodan)
+- [Passive Recon](https://tryhackme.com/room/passiverecon)
+- [FFuF](https://tryhackme.com/room/ffuf)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Exploitation Basics
+- [Metasploit Intro](https://tryhackme.com/room/metasploitintro)
+- [Metasploit Unleashed Playlist](https://youtube.com/playlist?list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm)
+- [Blue](https://tryhackme.com/room/blue)
+- [Ice](https://tryhackme.com/room/ice)
+- [Metasploitable 2 Docs](https://docs.rapid7.com/metasploit/metasploitable-2/)
+- [Linux Privilege Escalation](https://tryhackme.com/room/linuxprivesc)
+- [Windows 10 Privilege Escalation](https://tryhackme.com/room/windows10privesc)
 
-### Header 3
+## Password Cracking
+- [Hydra](https://tryhackme.com/room/hydra)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Web Hacking
+- [Burp Suite Basics](https://tryhackme.com/room/burpsuitebasics)
+- [Burp Suite Repeater](https://tryhackme.com/room/burpsuiterepeater)
+- [Web Hacking Tutorial](https://youtu.be/G3hpAeoZ4ek?si=Vbzl564Gc1Ii27Ai)
+- [Web Exploitation Tutorial](https://www.youtube.com/watch?v=nXm324qSfRA)
+- [OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [OWASP Top 10 2021](https://tryhackme.com/room/owasptop102021)
+- [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [WebGoat](https://tryhackme.com/room/webgoat)
+- [DVWA](https://tryhackme.com/room/dvwa)
+- [PortSwigger Web Security](https://portswigger.net/web-security)
+- [SQLMap](https://tryhackme.com/room/sqlmap)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## CTFs
+- [Vulnversity](https://tryhackme.com/room/vulnversity)
+- [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [Kenobi](https://tryhackme.com/room/kenobi)
+- [Picklerick](https://tryhackme.com/room/picklerick)
+- [Rrootme](https://tryhackme.com/room/rrootme)
+- [EasyCTF](https://tryhackme.com/room/easyctf)
+- [Archangel](https://tryhackme.com/room/archangel)
+- [Ignite](https://tryhackme.com/room/ignite)
+- [Anthem](https://tryhackme.com/room/anthem)
+- [Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
+- [TeamCW](https://tryhackme.com/room/teamcw)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Miscellaneous
+- [25 Days of Christmas](https://tryhackme.com/room/25daysofchristmas)
+- [Learn Cyber in 25 Days](https://tryhackme.com/room/learncyberin25days)
+- [Advent of Cyber 2](https://tryhackme.com/room/adventofcyber2)
+- [Advent of Cyber 3](https://tryhackme.com/room/adventofcyber3)
+- [Advent of Cyber 4](https://tryhackme.com/room/adventofcyber4)
