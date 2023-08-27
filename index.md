@@ -7,6 +7,8 @@ title: Home
 
 **Note:** The majority of the resources listed in this learning path are sourced from TryHackMe. Please be aware that TryHackMe and its content are subject to change. It is important to stay updated with their terms of use and guidelines. Any actions taken by individuals based on the information provided in this learning path are at their own risk, and the creator of this content shall not be held liable for any consequences arising from such actions.
 
+![image](https://github.com/hac01/LearnToHack/assets/70646122/b325c484-5475-4de8-b037-a1a9c7409fda)
+
 ## Intro
 - [White Hat (Computer Security)](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 - [Intro to Research](https://tryhackme.com/room/introtoresearch)
