@@ -88,11 +88,3 @@ title: Home
 - [Advent of Cyber 3](https://tryhackme.com/room/adventofcyber3)
 - [Advent of Cyber 4](https://tryhackme.com/room/adventofcyber4)
 
-
-## YouTube Video Series - Ethical Hacking in 15 Hours - 2023 Edition
-
-**Part 1:**
-[![Ethical Hacking in 15 Hours - Part 1](https://img.youtube.com/vi/3FNYvj2U0HM/0.jpg)](https://youtu.be/3FNYvj2U0HM?si=Q2H8EvwP99yxs172)
-
-**Part 2:**
-[![Ethical Hacking in 15 Hours - Part 2](https://img.youtube.com/vi/sH4JCwjybGs/0.jpg)](https://www.youtube.com/watch?v=sH4JCwjybGs)
